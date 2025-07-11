@@ -1,2 +1,1 @@
-# todolist
-Simple Todo App using HTML, CSS, JS
+ https://kunal43fortythree.github.io/todolist/
